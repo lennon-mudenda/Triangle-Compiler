@@ -1,6 +1,6 @@
 # Triangle-Compiler
 
-Welcome to the triangle programming repo language a simple programming 
+Welcome to the triangle programming language repo a simple programming 
 language for my final year compiler design module. This is to serve as 
 documentation for my mini language.
 
